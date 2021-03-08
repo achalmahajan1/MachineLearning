@@ -1,4 +1,4 @@
-# MachineLearning_Course by Andrew Ng (Stanford University)
+# Machine Learning course by Andrew Ng (Stanford University)
 This repository contains solution to the assignment problems for the course "Machine Learning" by Andrew Ng, probably one of the most famous (and oldest) course offered in this field. It is available free of cost
 , and I would recommend everyone to give it a shot.
 ## The first HW
